@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-css-obfuscator",
+  "version": "0.1.0",
+  "description": "Tailwind css obfuscator for html code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootwindui/tailwind-css-obfuscator.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "Obfuscator",
+    "Tailwind",
+    "Obfuscate",
+    "classname",
+    "css",
+    "obfuscator"
+  ],
+  "author": "ari bahtiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootwindui/tailwind-css-obfuscator/issues"
+  },
+  "homepage": "https://github.com/bootwindui/tailwind-css-obfuscator#readme"
+}
